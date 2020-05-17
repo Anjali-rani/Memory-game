@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\Memorygame2\Memorygame2\bin\Debug\Memorygame2.exe.config
+C:\Users\Hp\source\repos\Memorygame2\Memorygame2\bin\Debug\Memorygame2.exe
+C:\Users\Hp\source\repos\Memorygame2\Memorygame2\bin\Debug\Memorygame2.pdb
+C:\Users\Hp\source\repos\Memorygame2\Memorygame2\obj\Debug\Memorygame2.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\Memorygame2\Memorygame2\obj\Debug\Memorygame2.GameWindow.resources
+C:\Users\Hp\source\repos\Memorygame2\Memorygame2\obj\Debug\Memorygame2.Properties.Resources.resources
+C:\Users\Hp\source\repos\Memorygame2\Memorygame2\obj\Debug\Memorygame2.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\Memorygame2\Memorygame2\obj\Debug\Memorygame2.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Memorygame2\Memorygame2\obj\Debug\Memorygame2.exe
+C:\Users\Hp\source\repos\Memorygame2\Memorygame2\obj\Debug\Memorygame2.pdb
